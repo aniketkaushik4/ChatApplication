@@ -15,7 +15,7 @@ npm install
 👤 **aniketkaushik4**
 
 * Github: [@aniketkaushik4](https://github.com/aniketkaushik4)
-* LinkedIn: [@Aniket Kaushik](https://linkedin.com/in/Aniket Kaushik)
+* LinkedIn: [@Aniket Kaushik](https://linkedin.com/in/aniket-kaushik-9336011ab)
 
 ## Show your support
 
