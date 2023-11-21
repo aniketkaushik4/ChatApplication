@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> This chat application leverages the power of Node.js and Express for the server-side logic, providing a real-time communication platform. Messages are stored in a MySQL database, ensuring persistence across sessions. The frontend, designed with HTML and CSS, offers an intuitive and responsive user interface, allowing users to engage in seamless conversations. The combination of these technologies enables a dynamic and interactive chat experience, connecting users in an efficient and visually appealing manner
+> This chat application leverages the power of Node.js and Express for the server-side logic, providing a real-time communication platform. Messages are stored in a MySQL database, ensuring persistence across sessions. The frontend, designed with HTML and CSS, offers an intuitive and responsive user interface, allowing users to engage in seamless conversations. The combination of these technologies enables a dynamic and interactive chat experience, connecting users in an efficient and visually appealing manner.
 
 ## Install
 
